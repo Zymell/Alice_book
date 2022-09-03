@@ -4,7 +4,11 @@
 body {
     background-color: rgb(226, 205, 43);
 }
-#list{
+#list_1{
     color: red;
+    text-align: center;
+}
+#list_2{
+    color: rgb(39, 238, 43);
     text-align: center;
 }
